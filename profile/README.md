@@ -62,3 +62,7 @@ Con esta estructura, la app de Pop Cool no solo ofrecerá una experiencia única
 
 **Nota:** Los precios indicados son estimados y pueden variar según las necesidades específicas del cliente y la configuración requerida.
 
+Que tangas un felíz día.
+
+![popcollfin](https://github.com/user-attachments/assets/8f246a8f-562d-4cdf-8bfe-e752663e7961)
+
