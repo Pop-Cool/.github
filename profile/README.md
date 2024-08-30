@@ -41,7 +41,7 @@ Desarrollar y lanzar una aplicación móvil que no solo facilite la interacción
 
 ## Alcance del Proyecto
 
-La aplicación móvil de Pop Cool estará disponible para dispositivos iOS y Android, con una interfaz amigable y funcionalidades completas para la gestión del negocio y la satisfacción del cliente.
+La aplicación móvil de Pop Cool estará disponible para dispositivos iOS, Android y Web, con una interfaz amigable y funcionalidades completas para la gestión del negocio y la satisfacción del cliente.
 
 ---
 
