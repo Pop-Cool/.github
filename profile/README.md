@@ -53,3 +53,12 @@ Con esta estructura, la app de Pop Cool no solo ofrecerá una experiencia única
 
 ## Presupuesto
 
+
+| **Opción**                                                 | **Descripción**                                                                 | **Precio** |
+|------------------------------------------------------------|---------------------------------------------------------------------------------|------------|
+| **Opción 1: Venta Completa del Sistema (Llave en Mano)**   | - Incluye la venta del sistema completo, instalación y configuración. <br> - Asistencia en la elaboración y configuración de un datacenter propio para la empresa. | $XX,XXX    |
+| **Opción 2: Venta Completa con Alquiler de Servidores**    | - Venta del sistema completo. <br> - Alquiler de servidores en nuestras oficinas, ahorrando costos de datacenter. <br> - Incluye mantenimiento y soporte técnico. | $X,XXX + $X,XXX/anual |
+| **Opción 3: Alquiler Mensual del Sistema ERP**             | - Alquiler mensual del sistema ERP, que incluye todas las funcionalidades para diferentes empresas. <br> - Sin necesidad de infraestructura propia. <br> - Incluye soporte continuo y actualizaciones. | $XXX/mes  |
+
+**Nota:** Los precios indicados son estimados y pueden variar según las necesidades específicas del cliente y la configuración requerida.
+
