@@ -4,12 +4,15 @@
 
 Pop Cool es una heladería innovadora que busca llevar la experiencia de disfrutar helados, sorbetes y paletas únicas a un nivel superior. Con nuestra app móvil, no solo podrás explorar y personalizar tus pedidos, sino también gestionar aspectos clave del negocio como compras, ventas, inventario y contabilidad. La app está diseñada para ser intuitiva, rápida y alineada con las necesidades modernas de un negocio de helados.
 
-![popcoolshop](https://github.com/user-attachments/assets/4aa413dd-2df0-454b-a714-3bf75aaa57e2)
+![popcool](https://github.com/user-attachments/assets/e1cee1e0-2c8d-47b3-aba5-7cc8579210e9)
+
 
 ## Objetivos del Proyecto
 
 ### Objetivo General
 Desarrollar y lanzar una aplicación móvil que no solo facilite la interacción de los clientes con la heladería Pop Cool, sino que también integre módulos esenciales de gestión empresarial, asegurando un control total del negocio desde una plataforma centralizada.
+
+![popcoolshop](https://github.com/user-attachments/assets/4aa413dd-2df0-454b-a714-3bf75aaa57e2)
 
 ### Objetivos Específicos
 1. **Menú Interactivo:**
