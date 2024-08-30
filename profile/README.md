@@ -41,10 +41,9 @@ Desarrollar y lanzar una aplicación móvil que no solo facilite la interacción
 
 ## Alcance del Proyecto
 
-![gente](https://github.com/user-attachments/assets/abfd18c6-20cf-4f75-bdaf-9d9a676a0d4d)
-
-
 La aplicación móvil de Pop Cool estará disponible para dispositivos iOS, Android y Web, con una interfaz amigable y funcionalidades completas para la gestión del negocio y la satisfacción del cliente.
+
+![gente](https://github.com/user-attachments/assets/abfd18c6-20cf-4f75-bdaf-9d9a676a0d4d)
 
 ---
 
