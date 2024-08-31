@@ -65,13 +65,13 @@ Para el funcionamiento del sistema la heladería `Pop Cool` deberá complir los 
 
 - Instalación de un DataCenter (Cuarto de servidores donde tendrán los siguientes gastos).
 
-  1.- 2 Internet de dos compañias diferentes + de 60Mbs x Seg.
-  2.- Habitacion con refrigeración 24/7.
-  3.- Firewall.
-  4.- Server Proxi.
-  5.- Server RAID para Aplicación y base de datos.
-  6.- UPS para que no se vaya la luz.
-  7.- Un encargado de Data Centar que se encarga de mantener el buen funcionamiento del mismo.
+  1. 2 Internet de dos compañias diferentes + de 60Mbs x Seg.
+  2. Habitacion con refrigeración 24/7.
+  3. Firewall.
+  4. Server Proxi.
+  5. Server RAID para Aplicación y base de datos.
+  6. UPS para que no se vaya la luz.
+  7. Un encargado de Data Centar que se encarga de mantener el buen funcionamiento del mismo.
   
 ### Gold
 
@@ -85,13 +85,13 @@ Para el funcionamiento del sistema la heladería `Pop Cool` deberá complir los 
 
 - Instalación de un DataCenter (Cuarto de servidores donde tendrán los siguientes gastos).
 
-  1.- 2 Internet de dos compañias diferentes + de 60Mbs x Seg.
-  2.- Habitacion con refrigeración 24/7.
-  3.- Firewall.
-  4.- Server Proxi.
-  5.- Server RAID para Aplicación y base de datos.
-  6.- UPS para que no se vaya la luz.
-  7.- Un encargado de Data Centar que se encarga de mantener el buen funcionamiento del mismo.
+  1. 2 Internet de dos compañias diferentes + de 60Mbs x Seg.
+  2. Habitacion con refrigeración 24/7.
+  3. Firewall.
+  4. Server Proxi.
+  5. Server RAID para Aplicación y base de datos.
+  6. UPS para que no se vaya la luz.
+  7. Un encargado de Data Centar que se encarga de mantener el buen funcionamiento del mismo.
 
 ### Premium
 
@@ -104,16 +104,8 @@ Para el funcionamiento del sistema la heladería `Pop Cool` deberá complir los 
 
 - Instalación de un DataCenter (Cuarto de servidores donde tendrán los siguientes gastos).
 
-  1.- Pagar alquiler de Data Center a servisofts.
-  
-
-### Standar
-
-| **Opción**                                                 | **Descripción**                                                                 | **Precio** |
-|------------------------------------------------------------|---------------------------------------------------------------------------------|------------|
-| **Opción 1: Venta Completa del Sistema (Llave en Mano)**   | - Incluye la venta del sistema completo, instalación y configuración. <br> - Asistencia en la elaboración y configuración de un datacenter propio para la empresa. <br> - Incluye el codigo fuente | $40,000 (No incluye el datacenter)   |
-| **Opción 2: Venta Completa con Alquiler de Servidores**    | - Venta del sistema completo. <br> - Alquiler de servidores en nuestras oficinas, ahorrando costos de datacenter. <br> - Incluye mantenimiento y soporte técnico. | $X,XXX + $X,XXX/anual |
-| **Opción 3: Alquiler Mensual del Sistema ERP**             | - Alquiler mensual del sistema ERP, que incluye todas las funcionalidades para diferentes empresas. <br> - Sin necesidad de infraestructura propia. <br> - Incluye soporte continuo y actualizaciones. | $XXX/mes  |
+  1. Pagar alquiler de Data Center a servisofts.
+  2. Soporte y actualizaciones continuas.
 
 **Nota:** Los precios indicados son estimados y pueden variar según las necesidades específicas del cliente y la configuración requerida.
 
