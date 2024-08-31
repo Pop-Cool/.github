@@ -53,7 +53,7 @@ Con esta estructura, la app de Pop Cool no solo ofrecerá una experiencia única
 
 ## Presupuesto
 
-### Platinum
+### Platinum $us. 40,000.00 / un solo pago
 
 Al adquirir el plan platinium la heladería `Pop Cool` adquirirá.
 
@@ -73,27 +73,7 @@ Para el funcionamiento del sistema la heladería `Pop Cool` deberá complir los 
   6. UPS para que no se vaya la luz.
   7. Un encargado de Data Centar que se encarga de mantener el buen funcionamiento del mismo.
   
-### Gold
-
-
-Al adquirir el plan gold la heladería `Pop Cool` adquirirá.
-
-- El sistema ERP completo con todos sus módulos.
-- Instalación y configuración del sistema en los servidores de la empresa.
-
-Para el funcionamiento del sistema la heladería `Pop Cool` deberá complir los siguientes requisitos.
-
-- Instalación de un DataCenter (Cuarto de servidores donde tendrán los siguientes gastos).
-
-  1. 2 Internet de dos compañias diferentes + de 60Mbs x Seg.
-  2. Habitacion con refrigeración 24/7.
-  3. Firewall.
-  4. Server Proxi.
-  5. Server RAID para Aplicación y base de datos.
-  6. UPS para que no se vaya la luz.
-  7. Un encargado de Data Centar que se encarga de mantener el buen funcionamiento del mismo.
-
-### Premium
+### Premium $us. 500.00 / mensual
 
 Al adquirir el plan premium la heladería `Pop Cool` adquirirá.
 
