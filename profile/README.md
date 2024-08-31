@@ -70,7 +70,7 @@ Para el funcionamiento del sistema la heladería `Pop Cool` deberá complir los 
 - Server Proxi.
 - Server RAID para Aplicación y base de datos.
 - UPS para que no se vaya la luz.
-- Un encargado de Data Centar que se encarga de mantener el buen funcionamiento del mismo.
+- Un encargado de Data Centar que se encarga de mantener y actualizar el sistema.
   
 ### Premium $us. 500.00 / mensual
 
@@ -81,9 +81,7 @@ Al adquirir el plan premium la heladería `Pop Cool` adquirirá.
 
 Para el funcionamiento del sistema la heladería `Pop Cool` deberá complir los siguientes requisitos.
 
-- Instalación de un DataCenter (Cuarto de servidores donde tendrán los siguientes gastos).
-- Pagar alquiler de Data Center a servisofts.
-- Soporte y actualizaciones continuas.
+- Pagar su mensualidad
 
 **Nota:** Los precios indicados son estimados y pueden variar según las necesidades específicas del cliente y la configuración requerida.
 
