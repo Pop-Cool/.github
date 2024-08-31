@@ -76,8 +76,7 @@ Para el funcionamiento del sistema la heladería `Pop Cool` deberá complir los 
 
 Al adquirir el plan premium la heladería `Pop Cool` adquirirá.
 
-- El sistema ERP completo con todos sus módulos.
-- Instalación y configuración del sistema en los servidores de servisofts.
+- Uso del sistema en los servidores de servisofts.
 
 Para el funcionamiento del sistema la heladería `Pop Cool` deberá complir los siguientes requisitos.
 
