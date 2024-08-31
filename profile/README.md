@@ -73,9 +73,39 @@ Para el funcionamiento del sistema la heladería `Pop Cool` deberá complir los 
   6.- UPS para que no se vaya la luz.
   7.- Un encargado de Data Centar que se encarga de mantener el buen funcionamiento del mismo.
   
-### Gol
+### Gold
+
+
+Al adquirir el plan platinium la heladería `Pop Cool` adquirirá.
+
+- El sistema ERP completo con todos sus módulos.
+- Instalación y configuración del sistema en los servidores de la empresa.
+
+Para el funcionamiento del sistema la heladería `Pop Cool` deberá complir los siguientes requisitos.
+
+- Instalación de un DataCenter (Cuarto de servidores donde tendrán los siguientes gastos).
+
+  1.- 2 Internet de dos compañias diferentes + de 60Mbs x Seg.
+  2.- Habitacion con refrigeración 24/7.
+  3.- Firewall.
+  4.- Server Proxi.
+  5.- Server RAID para Aplicación y base de datos.
+  6.- UPS para que no se vaya la luz.
+  7.- Un encargado de Data Centar que se encarga de mantener el buen funcionamiento del mismo.
 
 ### Premium
+
+Al adquirir el plan platinium la heladería `Pop Cool` adquirirá.
+
+- El sistema ERP completo con todos sus módulos.
+- Instalación y configuración del sistema en los servidores de servisofts.
+
+Para el funcionamiento del sistema la heladería `Pop Cool` deberá complir los siguientes requisitos.
+
+- Instalación de un DataCenter (Cuarto de servidores donde tendrán los siguientes gastos).
+
+  1.- Pagar alquiler de Data Center a servisofts.
+  
 
 ### Standar
 
