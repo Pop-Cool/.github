@@ -76,7 +76,7 @@ Para el funcionamiento del sistema la heladería `Pop Cool` deberá complir los 
 ### Gold
 
 
-Al adquirir el plan platinium la heladería `Pop Cool` adquirirá.
+Al adquirir el plan gold la heladería `Pop Cool` adquirirá.
 
 - El sistema ERP completo con todos sus módulos.
 - Instalación y configuración del sistema en los servidores de la empresa.
@@ -95,7 +95,7 @@ Para el funcionamiento del sistema la heladería `Pop Cool` deberá complir los 
 
 ### Premium
 
-Al adquirir el plan platinium la heladería `Pop Cool` adquirirá.
+Al adquirir el plan premium la heladería `Pop Cool` adquirirá.
 
 - El sistema ERP completo con todos sus módulos.
 - Instalación y configuración del sistema en los servidores de servisofts.
